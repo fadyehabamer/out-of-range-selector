@@ -15,6 +15,6 @@
 
 <p align="center">
 
-  <img="img.png">
+  <img src="img.png">
 
 </p>  
