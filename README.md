@@ -13,4 +13,8 @@
 
 ```
 
-<p align=>
+<p align="center">
+
+  <img="img.png">
+
+</p>  
